@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+
+h1.zhi{
+font-family: 'Zhi Mang Xing', cursive;
+text-align: center;
+
+}
+
+body{
+
+margin: 10px 5px;
+background-color: salmon;
+    
+}
+
+header{
+
+background-color: lightblue;
+color: red;
+padding: 5px 0px 20px 0px;
+
+}
+
+ul.primermenu{
+    list-style: none;
+}
+
+.primermenu li{
+
+float: left;
+background-color: lightblue;
+width: 120px;
+margin-right: 10px;
+border: 4px salmon solid;
+text-align: center;
+
+}
+
+nav{
+height: 30px;
+
+}
+
+section.prim1{
+background-color:lightyellow;
+
+}
+
+.primermenu li a {
+text-decoration: none;
+font-weight: bold;
+}
+
+ol.lista {
+padding: 14px;
+}
+
+section.prim2 {
+
+background-color: lightsteelblue;
+
+}
+
+.prim2 table {
+background-color: chocolate;
+}
+
+td.tabla {
+  padding: 30px 100px;  
+}
+
+td.tabla1{
+
+padding: 0px 5px;
+
+}
+
+td.rojo:hover{
+
+background-color: red;
+
+}
+
+td.amarillo:hover{
+
+background-color: yellow;
+
+}
+
+p.final {
+
+    border-color: orange red yellow;
+    border-width: 10px 40px;
+    border-style: dotted solid dashed;
+    text-align: center;
+    font-size: 1.5rem;
+    color: yellow;
+  }
+
+ section.final {
+
+background-color: lightcoral;
+  }
+
+div.barrazul {
+    height: 25px;
+    margin: 10px;
+    width: 60%;
+    background-color: blue;
+    border: red 2px solid;
+    margin-left: 5%;
+
+}
+
+footer {
+
+background-color:lightslategrey ;
+
+}
+
+p.izq{
+
+text-align: left;
+
+}
+
+p.centro{
+
+    text-align: center;
+    
+    }
+
+p.der{
+
+text-align: right;
+        
+        }
